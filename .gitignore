@@ -37,3 +37,17 @@ false/
 metadata-v1.3/
 registry.npmmirror.com/
 registry.npmjs.com/
+
+# Build outputs and releases
+releases/
+packages/
+
+# Reference/documentation images
+references/
+
+# Windows zone identifier files
+*:Zone.Identifier
+
+# Build artifacts
+*.zip
+chrome-mcp-server-*.zip
